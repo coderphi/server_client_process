@@ -1,4 +1,4 @@
-Server-Client Flask Communication
+Server-Client Flask Communication in Linux Box
 
 This repository contains a simple implementation of server-client communication using Flask, a lightweight web framework for Python. The server accepts POST requests with commands, executes them, and returns the result to the client.
 
